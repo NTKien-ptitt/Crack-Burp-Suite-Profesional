@@ -9,7 +9,7 @@ Cài đặt BurpSuite.
 - Cài đặt mội trường jdk-21 nếu máy chưa có.
 - mở tệp `BurpLoaderKeygen.jar`.
 
--> copy API -> request api
+-> copy key -> request key
 
 
 # 2. MÔI TRƯỜNG LINUX
@@ -22,4 +22,4 @@ Chuyển tệp tin `BurpLoaderKeygen.jar` thư mục BurpSuite.
 ```bash
 java -jar BurpLoaderKeygen.jar
 ```
--> copy API -> request api
+-> copy key -> request key
