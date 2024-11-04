@@ -6,9 +6,8 @@ https://portswigger.net/burp/pro
 # 1. MÔI TRƯỜNG WINDOW
 Cài đặt BurpSuite.
 
-Cài đặt mội trường jdk-21 nếu máy chưa có.
-
-mở tệp `BurpLoaderKeygen.jar`.
+- Cài đặt mội trường jdk-21 nếu máy chưa có.
+- mở tệp `BurpLoaderKeygen.jar`.
 
 -> copy API -> request api
 
